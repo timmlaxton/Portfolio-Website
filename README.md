@@ -11,9 +11,9 @@ Features include:
 
 # Screenshots
 
-![](https://github.com/timmlaxton/Website-react/blob/master/Screenshots/About Me.png?raw=true)
+![](https://github.com/timmlaxton/Website-react/blob/master/About Me.png?raw=true)
 
-![](https://github.com/timmlaxton/Website-react/blob/master/Screenshots/Projects%20List.png?raw=true)
+![](https://github.com/timmlaxton/Website-react/blob/master/Projects%20List.png?raw=true)
 
 
 

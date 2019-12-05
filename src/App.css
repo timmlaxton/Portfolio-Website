@@ -56,10 +56,26 @@ vertical-align: middle;
 
 }
 
+.about-me-header{
+  text-align: center;
+
+}
+
+.about-me-text {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
 .profile-image {
 
-  height: 100%;
-  width: 100%;
+  display: flex;
+  display:block;
+  float: left;
+  height: 40%;
+  width: 35%;
+  padding-top: 5em;
+  position: center;
 
 }
 

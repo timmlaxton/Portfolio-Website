@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Grid, Row, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } from 'react-mdl';
-import image from "../images/Rental.jpg"
 
 class Projects extends Component {
   render () {
@@ -50,7 +49,7 @@ class Projects extends Component {
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
           <CardTitle style={{color: 'black', height: '176px', background: 'url(https://images.unsplash.com/photo-1523321826514-fcd51dbe0c2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60) center / cover'}} >Exercise App</CardTitle>
           <CardText>
-          Exercise App for recording your fitness regime
+          WIP Exercise App for recording your fitness regime  WIP
           </CardText>
           <CardActions border>
             <Button colored>GitHub</Button>
@@ -98,7 +97,7 @@ class Projects extends Component {
 
 </div>
 
-<div className="project-seven">
+<div className="project-six">
 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
   <CardTitle style={{color: 'black', height: '176px', background: 'url(http://hostswebsite.com/wp-content/uploads/2019/06/1561393855_maxresdefault.jpg) center / cover'}}>Rock Paper Scissors</CardTitle>
   <CardText>
@@ -116,7 +115,7 @@ class Projects extends Component {
 
 </div>
 
-<div className="project-eight">
+<div className="project-seven">
 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
   <CardTitle style={{color: 'black', height: '176px', background: 'url(https://i.ytimg.com/vi/U9T6YkEDkMo/maxresdefault.jpg) center / cover'}}>History App</CardTitle>
   <CardText>
@@ -134,7 +133,7 @@ class Projects extends Component {
 
 </div>
 
-<div className="project-nine">
+<div className="project-eight">
 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
   <CardTitle style={{color: 'black', height: '176px', background: 'url(https://i.ytimg.com/vi/j8Z-EvqZ0EU/maxresdefault.jpg) center / cover'}}>Currency Convertor</CardTitle>
   <CardText>
@@ -142,6 +141,24 @@ class Projects extends Component {
   </CardText>
   <CardActions border>
     <Button href="https://github.com/timmlaxton/Currency_Convertor" colored>GitHub</Button>
+  </CardActions>
+  <CardMenu style={{color: '#fff'}}>
+    <IconButton name="share" />
+  </CardMenu>
+</Card>
+
+
+</div>
+
+
+<div className="project-nine">
+<Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+  <CardTitle style={{color: 'black', height: '176px', background: 'url(https://cdn.images.express.co.uk/img/dynamic/130/590x/Weatherman-Michael-Fish-interview-Tony-Padman-586853.jpg) center / cover'}}>Weather App</CardTitle>
+  <CardText>
+  Weather App
+  </CardText>
+  <CardActions border>
+    <Button href="https://github.com/timmlaxton/Weather_App" colored>GitHub</Button>
   </CardActions>
   <CardMenu style={{color: '#fff'}}>
     <IconButton name="share" />

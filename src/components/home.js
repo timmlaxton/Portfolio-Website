@@ -16,7 +16,7 @@ class Home extends Component {
     <img src={Tim}
     alt="avatar"
     className="man-img"/>
-    
+
 
 
 

@@ -11,11 +11,10 @@ Features include:
 
 # Screenshots
 
-![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Accomodation.png?raw=true)
+![](https://github.com/timmlaxton/Website-react/blob/master/Screenshots/About Me.png?raw=true)
 
-![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Rental%20List.png?raw=true)
+![](https://github.com/timmlaxton/Website-react/blob/master/Screenshots/Projects%20List.png?raw=true)
 
-![](https://github.com/timmlaxton/Property_Rental/blob/master/Screenshots/Rental%20Detail.png?raw=true)
 
 
 

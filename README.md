@@ -10,7 +10,6 @@ ia
 
 # Screenshots
 
-![](https://github.com/timmlaxton/Website-react/blob/master/About Me.png?raw=true)
 
 ![](https://github.com/timmlaxton/Website-react/blob/master/Projects.png?raw=true)
 

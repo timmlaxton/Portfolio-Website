@@ -1,8 +1,7 @@
-# Apartments_App
-**App that allows users to select apartments using specified criteria.**
+# Website
+**Website to showcase my work.**
 
-Features include:
-- Allows users to find rooms using specified criteria
+ia
 
 
 ![](https://github.com/timmlaxton/Website-react/blob/master/Homepage.png?raw=true)
@@ -13,7 +12,7 @@ Features include:
 
 ![](https://github.com/timmlaxton/Website-react/blob/master/About Me.png?raw=true)
 
-![](https://github.com/timmlaxton/Website-react/blob/master/Projects%20List.png?raw=true)
+![](https://github.com/timmlaxton/Website-react/blob/master/Projects.png?raw=true)
 
 
 
